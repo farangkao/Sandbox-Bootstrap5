@@ -7,8 +7,9 @@ Created with CodeSandbox
 https://www.w3schools.com/default.asp
 
 # Bootstrap 5 Links:
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-https://mdbootstrap.com/docs/standard/content-styles/background-image/
+https://www.w3schools.com/bootstrap5/index.php
 
 # Wallpaper Links:
 
